@@ -1,0 +1,23 @@
+* {
+    background-color: #636940;
+}
+.title_main {
+    background-color: #9BDEAC;
+    text-align: center;
+    margin-top: 5rem;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+nav {
+    margin-top: 20px;
+    text-align: end;
+}
+nav .nav_btn {
+    color: #fff;
+    size: 40em;
+    margin: 5px;
+    padding: 4px;
+    border: #000 1px solid;
+    border-radius: 2px;
+    background-color: #59a96a;
+}
